@@ -116,4 +116,3 @@ cd ..
 git commit -am "Внесли изменения в сабмодуле"
 git push
 ```
-# TrainingRepository_Simakov
