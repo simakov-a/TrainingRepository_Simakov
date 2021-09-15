@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Simakov"]
+	path = SubmoduleRepository_Simakov
+	url = git@github.com:simakov-a/SubmoduleRepository_Simakov.git
